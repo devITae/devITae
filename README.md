@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome 👋
+#### 🔭 I’m currently working on my life!
+#### @ Hanyang University (ERICA), Division of Computer Science.
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=itae)](https://solved.ac/itae)
+
 
 <!--
 **devITae/devITae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
