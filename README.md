@@ -1,8 +1,11 @@
-### Welcome 👋
-#### 🔭 I’m currently working on PS!
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=itae)](https://solved.ac/itae)
+## Welcome 👋
 ##### @ Hanyang University (ERICA), Division of Computer Science.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devITae&theme=buefy&show_icons=true&count_private=true)
+
+## 🔭 I’m currently working on PS!
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=itae)](https://solved.ac/itae) 
+
 
 <!--
 **devITae/devITae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
