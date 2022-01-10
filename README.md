@@ -1,10 +1,9 @@
 ## Welcome 👋
 ##### @ Hanyang University (ERICA), Division of Computer Science.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devITae&theme=buefy&show_icons=true&count_private=true)
+![Jaehyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=devITae&theme=buefy&show_icons=true&count_private=true)
 
 ## 🔭 I’m currently working on PS!
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=itae)](https://solved.ac/itae) 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=itae)](https://solved.ac/itae) 
 
 
 <!--
