@@ -18,7 +18,7 @@
 </div>
 <br>
 <div align="center">
-  <h5 align="center">@ Hanyang University (ERICA), Division of Computer Science.</h5>
+  <h5 align="center">@ Hanyang University (ERICA), Division of Computer Science</h5>
   
   ![Jaehyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=devITae&theme=buefy&show_icons=true&count_private=true)
 </div>
