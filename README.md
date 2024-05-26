@@ -16,18 +16,14 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp;
   <br>
 </div>
-<br>
 <div align="center">
   <h5 align="center">@ Hanyang University (ERICA), Division of Computer Science</h5>
-  
-  ![Jaehyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=devITae&theme=buefy&show_icons=true&count_private=true)
 </div>
 <br>
 <div align="center">
   <h3 align="center">🔭 I’m currently working on PS! 🌱</h3>
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=itae)](https://solved.ac/itae) 
-  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=itae&theme=warm)](https://solved.ac/itae) 
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=itae)](https://solved.ac/itae) 
   <br>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevITae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
